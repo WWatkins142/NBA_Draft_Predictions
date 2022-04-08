@@ -1,13 +1,14 @@
 # Project 4: NBA Draft Predictions
 
 ## Contributors
+- [Wesley Watkins](https://github.com/WWatkins142)
 - [Steven Broyles](https://github.com/Steven-Broyles)
 - [Ryan "Fin" Finley](https://github.com/ryanfinley)
 - [Cornelia Hinton](https://github.com/CORNELIAHINTON)
 - [Theadora James](https://github.com/jamestheadora)
 - [Jennifer Long](https://github.com/jennylynnlong)
 - [Hazel Morris](https://github.com/Haze88)
-- [Wesley Watkins](https://github.com/WWatkins142)
+
 
 ## Details About the Project
 #### *What Questions Did We Want Answered?*
